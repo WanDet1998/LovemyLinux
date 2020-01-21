@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>information</title>
+<style>
+body{
+  background-color:black;
+}
+.name{
+    width:70%;
+    background-color:gold;
+    border:1px solid red;
+    border-radius:50px;
+    opacity:0.6;
+  }
+  hover:.name{
+  opacity:1;
+  width:100%;
+  }
+ 
+</style>
+</head>
+<body>
+<div class="name">
+<h1>Faramarz>
+<h3>Jaghori</h3>
+<p>I am Faramarz Jagori.
+Born:Iran Mashhad
+Country: Afgunistan
+Age:21
+MyFriends: Amir JJ Mahdi Alpha
+</p>
+</body>
+</html>
